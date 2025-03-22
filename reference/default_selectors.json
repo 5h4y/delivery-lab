@@ -1,0 +1,88 @@
+{
+    "services": [
+        {
+            "name": "Google Workspace",
+            "category": "Mailbox Provider",
+            "default_selector": ["google"],
+            "type": "TXT"
+        },
+        {
+            "name": "Microsoft 365",
+            "category": "Mailbox Provider",
+            "default_selector": ["selector1", "selector2"],
+            "type": ""
+        },
+        {
+            "name": "SendGrid",
+            "category": "Email Delivery Platform",
+            "default_selector": ["s1", "s2"],
+            "type": "CNAME"
+        },
+        {
+            "name": "HubSpot",
+            "category": "Marketing Platform",
+            "default_selector": ["hs1-*UID*", "hs2-*UID*"],
+            "type": ""
+        },
+        {
+            "name": "Emma",
+            "category": "Marketing Platform",
+            "default_selector": ["e2ma-k1", "e2ma-k2", "e2ma-k3"],
+            "type": "cname"
+        },
+        {
+            "name": "Klaviyo",
+            "category": "Marketing Platform",
+            "default_selector": ["kl1", "kl2"],
+            "type": "cname"
+        },
+        {
+            "name": "Active Campaign",
+            "category": "Marketing Platform",
+            "default_selector": ["dk"],
+            "type": "txt"
+        },
+        {
+            "name": "Campaign Monitor",
+            "category": "Marketing Platform",
+            "default_selector": ["cm"],
+            "type": "txt"
+        },
+        {
+            "name": "Mailchimp & Mandrill",
+            "category": ["Marketing Platform", "Transactional Platform"],
+            "default_selector": ["k1", "k2", "k3"],
+            "type": ""
+        },
+        {
+            "name": "Sinch Mailgun",
+            "category": "Marketing Platform",
+            "default_selector": ["smtp"],
+            "type": "txt"
+        },
+        {
+            "name": "Brevo",
+            "category": "Marketing Platform",
+            "default_selector": ["mail"],
+            "type": "TXT"
+        },
+        {
+            "name": "Intercom",
+            "category": "Customer Service",
+            "default_selector": ["intercom"],
+            "type": "CNAME"
+        },
+        {
+            "name": "Zendesk",
+            "category": "Customer Service",
+            "default_selector": ["zendesk1", "zendesk2"],
+            "type": "CNAME"
+        },
+        {
+            "name": "Help Scout",
+            "category": "Customer Service",
+            "default_selector": ["strong1", "strong2"],
+            "type": "CNAME"
+        }
+    ]
+}
