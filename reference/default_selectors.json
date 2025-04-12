@@ -10,7 +10,7 @@
             "name": "Microsoft 365",
             "category": "Mailbox Provider",
             "default_selector": ["selector1", "selector2"],
-            "type": ""
+            "type": "CNAME"
         },
         {
             "name": "SendGrid",
@@ -22,43 +22,43 @@
             "name": "HubSpot",
             "category": "Marketing Platform",
             "default_selector": ["hs1-*UID*", "hs2-*UID*"],
-            "type": ""
+            "type": "CNAME"
         },
         {
             "name": "Emma",
             "category": "Marketing Platform",
             "default_selector": ["e2ma-k1", "e2ma-k2", "e2ma-k3"],
-            "type": "cname"
+            "type": "CNAME"
         },
         {
             "name": "Klaviyo",
             "category": "Marketing Platform",
             "default_selector": ["kl1", "kl2"],
-            "type": "cname"
+            "type": "CNAME"
         },
         {
             "name": "Active Campaign",
             "category": "Marketing Platform",
             "default_selector": ["dk"],
-            "type": "txt"
+            "type": "TXT"
         },
         {
             "name": "Campaign Monitor",
             "category": "Marketing Platform",
             "default_selector": ["cm"],
-            "type": "txt"
+            "type": "TXT"
         },
         {
             "name": "Mailchimp & Mandrill",
             "category": ["Marketing Platform", "Transactional Platform"],
             "default_selector": ["k1", "k2", "k3"],
-            "type": ""
+            "type": "CNAME"
         },
         {
             "name": "Sinch Mailgun",
             "category": "Marketing Platform",
             "default_selector": ["smtp"],
-            "type": "txt"
+            "type": "TXT"
         },
         {
             "name": "Brevo",
