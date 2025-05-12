@@ -1,0 +1,770 @@
+[
+  {
+    "Domain":"aim.com",
+    "Category":"Yahoo Mail",
+    "MX":"mx-aol.mail.gm0.yahoodns.net",
+    "MX Domain":"yahoodns.net"
+  },
+  {
+    "Domain":"aol.at",
+    "Category":"Yahoo Mail",
+    "MX":"mx-aol.mail.gm0.yahoodns.net",
+    "MX Domain":"yahoodns.net"
+  },
+  {
+    "Domain":"aol.be",
+    "Category":"Yahoo Mail",
+    "MX":"mx-aol.mail.gm0.yahoodns.net",
+    "MX Domain":"yahoodns.net"
+  },
+  {
+    "Domain":"aol.ch",
+    "Category":"Yahoo Mail",
+    "MX":"mx-aol.mail.gm0.yahoodns.net",
+    "MX Domain":"yahoodns.net"
+  },
+  {
+    "Domain":"aol.cl",
+    "Category":"Yahoo Mail",
+    "MX":"mx-aol.mail.gm0.yahoodns.net",
+    "MX Domain":"yahoodns.net"
+  },
+  {
+    "Domain":"aol.co.nz",
+    "Category":"Yahoo Mail",
+    "MX":"mx-aol.mail.gm0.yahoodns.net",
+    "MX Domain":"yahoodns.net"
+  },
+  {
+    "Domain":"aol.co.uk",
+    "Category":"Yahoo Mail",
+    "MX":"mx-aol.mail.gm0.yahoodns.net",
+    "MX Domain":"yahoodns.net"
+  },
+  {
+    "Domain":"aol.com",
+    "Category":"Yahoo Mail",
+    "MX":"mx-aol.mail.gm0.yahoodns.net",
+    "MX Domain":"yahoodns.net"
+  },
+  {
+    "Domain":"aol.com.ar",
+    "Category":"Yahoo Mail",
+    "MX":"mx-aol.mail.gm0.yahoodns.net",
+    "MX Domain":"yahoodns.net"
+  },
+  {
+    "Domain":"aol.com.au",
+    "Category":"Yahoo Mail",
+    "MX":"mx-aol.mail.gm0.yahoodns.net",
+    "MX Domain":"yahoodns.net"
+  },
+  {
+    "Domain":"aol.com.br",
+    "Category":"Yahoo Mail",
+    "MX":"mx-aol.mail.gm0.yahoodns.net",
+    "MX Domain":"yahoodns.net"
+  },
+  {
+    "Domain":"aol.com.co",
+    "Category":"Yahoo Mail",
+    "MX":"mx-aol.mail.gm0.yahoodns.net",
+    "MX Domain":"yahoodns.net"
+  },
+  {
+    "Domain":"aol.com.mx",
+    "Category":"Yahoo Mail",
+    "MX":"mx-aol.mail.gm0.yahoodns.net",
+    "MX Domain":"yahoodns.net"
+  },
+  {
+    "Domain":"aol.com.tr",
+    "Category":"Yahoo Mail",
+    "MX":"mx-aol.mail.gm0.yahoodns.net",
+    "MX Domain":"yahoodns.net"
+  },
+  {
+    "Domain":"aol.com.ve",
+    "Category":"Yahoo Mail",
+    "MX":"mx-aol.mail.gm0.yahoodns.net",
+    "MX Domain":"yahoodns.net"
+  },
+  {
+    "Domain":"aol.cz",
+    "Category":"Yahoo Mail",
+    "MX":"mx-aol.mail.gm0.yahoodns.net",
+    "MX Domain":"yahoodns.net"
+  },
+  {
+    "Domain":"aol.de",
+    "Category":"Yahoo Mail",
+    "MX":"mx-aol.mail.gm0.yahoodns.net",
+    "MX Domain":"yahoodns.net"
+  },
+  {
+    "Domain":"aol.dk",
+    "Category":"Yahoo Mail",
+    "MX":"mx-aol.mail.gm0.yahoodns.net",
+    "MX Domain":"yahoodns.net"
+  },
+  {
+    "Domain":"aol.es",
+    "Category":"Yahoo Mail",
+    "MX":"mx-aol.mail.gm0.yahoodns.net",
+    "MX Domain":"yahoodns.net"
+  },
+  {
+    "Domain":"aol.fi",
+    "Category":"Yahoo Mail",
+    "MX":"mx-aol.mail.gm0.yahoodns.net",
+    "MX Domain":"yahoodns.net"
+  },
+  {
+    "Domain":"aol.fr",
+    "Category":"Yahoo Mail",
+    "MX":"mx-aol.mail.gm0.yahoodns.net",
+    "MX Domain":"yahoodns.net"
+  },
+  {
+    "Domain":"aol.hk",
+    "Category":"Yahoo Mail",
+    "MX":"mx-aol.mail.gm0.yahoodns.net",
+    "MX Domain":"yahoodns.net"
+  },
+  {
+    "Domain":"aol.in",
+    "Category":"Yahoo Mail",
+    "MX":"mx-aol.mail.gm0.yahoodns.net",
+    "MX Domain":"yahoodns.net"
+  },
+  {
+    "Domain":"aol.it",
+    "Category":"Yahoo Mail",
+    "MX":"mx-aol.mail.gm0.yahoodns.net",
+    "MX Domain":"yahoodns.net"
+  },
+  {
+    "Domain":"aol.jp",
+    "Category":"Yahoo Mail",
+    "MX":"mx-aol.mail.gm0.yahoodns.net",
+    "MX Domain":"yahoodns.net"
+  },
+  {
+    "Domain":"aol.kr",
+    "Category":"Yahoo Mail",
+    "MX":"mx-aol.mail.gm0.yahoodns.net",
+    "MX Domain":"yahoodns.net"
+  },
+  {
+    "Domain":"aol.nl",
+    "Category":"Yahoo Mail",
+    "MX":"mx-aol.mail.gm0.yahoodns.net",
+    "MX Domain":"yahoodns.net"
+  },
+  {
+    "Domain":"aol.pl",
+    "Category":"Yahoo Mail",
+    "MX":"mx-aol.mail.gm0.yahoodns.net",
+    "MX Domain":"yahoodns.net"
+  },
+  {
+    "Domain":"aol.ru",
+    "Category":"Yahoo Mail",
+    "MX":"mx-aol.mail.gm0.yahoodns.net",
+    "MX Domain":"yahoodns.net"
+  },
+  {
+    "Domain":"aol.se",
+    "Category":"Yahoo Mail",
+    "MX":"mx-aol.mail.gm0.yahoodns.net",
+    "MX Domain":"yahoodns.net"
+  },
+  {
+    "Domain":"aol.tw",
+    "Category":"Yahoo Mail",
+    "MX":"mx-aol.mail.gm0.yahoodns.net",
+    "MX Domain":"yahoodns.net"
+  },
+  {
+    "Domain":"aolchina.com",
+    "Category":"Yahoo Mail",
+    "MX":"mx-aol.mail.gm0.yahoodns.net",
+    "MX Domain":"yahoodns.net"
+  },
+  {
+    "Domain":"aolnews.com",
+    "Category":"Yahoo Mail",
+    "MX":"mx-aol.mail.gm0.yahoodns.net",
+    "MX Domain":"yahoodns.net"
+  },
+  {
+    "Domain":"aolvideo.com",
+    "Category":"Yahoo Mail",
+    "MX":"mx-aol.mail.gm0.yahoodns.net",
+    "MX Domain":"yahoodns.net"
+  },
+  {
+    "Domain":"aprilshowersflorists.com",
+    "Category":"Yahoo Mail",
+    "MX":"mta5.am0.yahoodns.net",
+    "MX Domain":"yahoodns.net"
+  },
+  {
+    "Domain":"asylum.com",
+    "Category":"Yahoo Mail",
+    "MX":"mx-aol.mail.gm0.yahoodns.net",
+    "MX Domain":"yahoodns.net"
+  },
+  {
+    "Domain":"bellatlantic.net",
+    "Category":"Yahoo Mail",
+    "MX":"mx-aol.mail.gm0.yahoodns.net",
+    "MX Domain":"yahoodns.net"
+  },
+  {
+    "Domain":"bloomoffaribault.com",
+    "Category":"Yahoo Mail",
+    "MX":"mta5.am0.yahoodns.net",
+    "MX Domain":"yahoodns.net"
+  },
+  {
+    "Domain":"citlink.net",
+    "Category":"Yahoo Mail",
+    "MX":"mta5.am0.yahoodns.net",
+    "MX Domain":"yahoodns.net"
+  },
+  {
+    "Domain":"compuserve.com",
+    "Category":"Yahoo Mail",
+    "MX":"mx-aol.mail.gm0.yahoodns.net",
+    "MX Domain":"yahoodns.net"
+  },
+  {
+    "Domain":"cox.net",
+    "Category":"Yahoo Mail",
+    "MX":"mta5.am0.yahoodns.net",
+    "MX Domain":"yahoodns.net"
+  },
+  {
+    "Domain":"cs.com",
+    "Category":"Yahoo Mail",
+    "MX":"mx-aol.mail.gm0.yahoodns.net",
+    "MX Domain":"yahoodns.net"
+  },
+  {
+    "Domain":"csi.com",
+    "Category":"Yahoo Mail",
+    "MX":"mx-aol.mail.gm0.yahoodns.net",
+    "MX Domain":"yahoodns.net"
+  },
+  {
+    "Domain":"dogsinthenews.com",
+    "Category":"Yahoo Mail",
+    "MX":"mta6.am0.yahoodns.net",
+    "MX Domain":"yahoodns.net"
+  },
+  {
+    "Domain":"epix.net",
+    "Category":"Yahoo Mail",
+    "MX":"mta5.am0.yahoodns.net",
+    "MX Domain":"yahoodns.net"
+  },
+  {
+    "Domain":"frontier.com",
+    "Category":"Yahoo Mail",
+    "MX":"mta5.am0.yahoodns.net",
+    "MX Domain":"yahoodns.net"
+  },
+  {
+    "Domain":"frontiernet.net",
+    "Category":"Yahoo Mail",
+    "MX":"mta5.am0.yahoodns.net",
+    "MX Domain":"yahoodns.net"
+  },
+  {
+    "Domain":"geocities.com",
+    "Category":"Yahoo Mail",
+    "MX":"mta5.am0.yahoodns.net",
+    "MX Domain":"yahoodns.net"
+  },
+  {
+    "Domain":"goowy.com",
+    "Category":"Yahoo Mail",
+    "MX":"mx-aol.mail.gm0.yahoodns.net",
+    "MX Domain":"yahoodns.net"
+  },
+  {
+    "Domain":"gte.net",
+    "Category":"Yahoo Mail",
+    "MX":"mx-aol.mail.gm0.yahoodns.net",
+    "MX Domain":"yahoodns.net"
+  },
+  {
+    "Domain":"kimo.com",
+    "Category":"Yahoo Mail",
+    "MX":"mx-tw.mail.gm0.yahoodns.net",
+    "MX Domain":"yahoodns.net"
+  },
+  {
+    "Domain":"lemondrop.com",
+    "Category":"Yahoo Mail",
+    "MX":"mx-aol.mail.gm0.yahoodns.net",
+    "MX Domain":"yahoodns.net"
+  },
+  {
+    "Domain":"mcom.com",
+    "Category":"Yahoo Mail",
+    "MX":"mx-aol.mail.gm0.yahoodns.net",
+    "MX Domain":"yahoodns.net"
+  },
+  {
+    "Domain":"myfrontiermail.com",
+    "Category":"Yahoo Mail",
+    "MX":"mta5.am0.yahoodns.net",
+    "MX Domain":"yahoodns.net"
+  },
+  {
+    "Domain":"myyahoo.com",
+    "Category":"Yahoo Mail",
+    "MX":"mta5.am0.yahoodns.net",
+    "MX Domain":"yahoodns.net"
+  },
+  {
+    "Domain":"netbusiness.com",
+    "Category":"Yahoo Mail",
+    "MX":"mx-aol.mail.gm0.yahoodns.net",
+    "MX Domain":"yahoodns.net"
+  },
+  {
+    "Domain":"netscape.com",
+    "Category":"Yahoo Mail",
+    "MX":"mx-aol.mail.gm0.yahoodns.net",
+    "MX Domain":"yahoodns.net"
+  },
+  {
+    "Domain":"netscape.net",
+    "Category":"Yahoo Mail",
+    "MX":"mx-aol.mail.gm0.yahoodns.net",
+    "MX Domain":"yahoodns.net"
+  },
+  {
+    "Domain":"newnorth.net",
+    "Category":"Yahoo Mail",
+    "MX":"mta5.am0.yahoodns.net",
+    "MX Domain":"yahoodns.net"
+  },
+  {
+    "Domain":"robertgillingsproductions.com",
+    "Category":"Yahoo Mail",
+    "MX":"mta6.am0.yahoodns.net",
+    "MX Domain":"yahoodns.net"
+  },
+  {
+    "Domain":"rocketmail.com",
+    "Category":"Yahoo Mail",
+    "MX":"mta5.am0.yahoodns.net",
+    "MX Domain":"yahoodns.net"
+  },
+  {
+    "Domain":"rogers.com",
+    "Category":"Yahoo Mail",
+    "MX":"mx-rogers.mail.am0.yahoodns.net",
+    "MX Domain":"yahoodns.net"
+  },
+  {
+    "Domain":"safesocial.com",
+    "Category":"Yahoo Mail",
+    "MX":"mx-aol.mail.gm0.yahoodns.net",
+    "MX Domain":"yahoodns.net"
+  },
+  {
+    "Domain":"simivalleyflowers.com",
+    "Category":"Yahoo Mail",
+    "MX":"mta5.am0.yahoodns.net",
+    "MX Domain":"yahoodns.net"
+  },
+  {
+    "Domain":"sky.com",
+    "Category":"Yahoo Mail",
+    "MX":"mx-eu.mail.am0.yahoodns.net",
+    "MX Domain":"yahoodns.net"
+  },
+  {
+    "Domain":"spinner.com",
+    "Category":"Yahoo Mail",
+    "MX":"mx-aol.mail.gm0.yahoodns.net",
+    "MX Domain":"yahoodns.net"
+  },
+  {
+    "Domain":"switched.com",
+    "Category":"Yahoo Mail",
+    "MX":"mx-aol.mail.gm0.yahoodns.net",
+    "MX Domain":"yahoodns.net"
+  },
+  {
+    "Domain":"urlesque.com",
+    "Category":"Yahoo Mail",
+    "MX":"mx-aol.mail.gm0.yahoodns.net",
+    "MX Domain":"yahoodns.net"
+  },
+  {
+    "Domain":"verizon.net",
+    "Category":"Yahoo Mail",
+    "MX":"mx-aol.mail.gm0.yahoodns.net",
+    "MX Domain":"yahoodns.net"
+  },
+  {
+    "Domain":"vincentthepoet.com",
+    "Category":"Yahoo Mail",
+    "MX":"mx-aol.mail.gm0.yahoodns.net",
+    "MX Domain":"yahoodns.net"
+  },
+  {
+    "Domain":"when.com",
+    "Category":"Yahoo Mail",
+    "MX":"mx-aol.mail.gm0.yahoodns.net",
+    "MX Domain":"yahoodns.net"
+  },
+  {
+    "Domain":"wild4music.com",
+    "Category":"Yahoo Mail",
+    "MX":"mx-aol.mail.gm0.yahoodns.net",
+    "MX Domain":"yahoodns.net"
+  },
+  {
+    "Domain":"wmconnect.com",
+    "Category":"Yahoo Mail",
+    "MX":"mx-aol.mail.gm0.yahoodns.net",
+    "MX Domain":"yahoodns.net"
+  },
+  {
+    "Domain":"wow.com",
+    "Category":"Yahoo Mail",
+    "MX":"mx-aol.mail.gm0.yahoodns.net",
+    "MX Domain":"yahoodns.net"
+  },
+  {
+    "Domain":"y7mail.com",
+    "Category":"Yahoo Mail",
+    "MX":"mta5.am0.yahoodns.net",
+    "MX Domain":"yahoodns.net"
+  },
+  {
+    "Domain":"yahoo.at",
+    "Category":"Yahoo Mail",
+    "MX":"mx-eu.mail.am0.yahoodns.net",
+    "MX Domain":"yahoodns.net"
+  },
+  {
+    "Domain":"yahoo.be",
+    "Category":"Yahoo Mail",
+    "MX":"mx-eu.mail.am0.yahoodns.net",
+    "MX Domain":"yahoodns.net"
+  },
+  {
+    "Domain":"yahoo.bg",
+    "Category":"Yahoo Mail",
+    "MX":"mx-eu.mail.am0.yahoodns.net",
+    "MX Domain":"yahoodns.net"
+  },
+  {
+    "Domain":"yahoo.ca",
+    "Category":"Yahoo Mail",
+    "MX":"mta5.am0.yahoodns.net",
+    "MX Domain":"yahoodns.net"
+  },
+  {
+    "Domain":"yahoo.cl",
+    "Category":"Yahoo Mail",
+    "MX":"mta5.am0.yahoodns.net",
+    "MX Domain":"yahoodns.net"
+  },
+  {
+    "Domain":"yahoo.co.id",
+    "Category":"Yahoo Mail",
+    "MX":"mx-apac.mail.gm0.yahoodns.net",
+    "MX Domain":"yahoodns.net"
+  },
+  {
+    "Domain":"yahoo.co.il",
+    "Category":"Yahoo Mail",
+    "MX":"mta5.am0.yahoodns.net",
+    "MX Domain":"yahoodns.net"
+  },
+  {
+    "Domain":"yahoo.co.in",
+    "Category":"Yahoo Mail",
+    "MX":"mx-apac.mail.gm0.yahoodns.net",
+    "MX Domain":"yahoodns.net"
+  },
+  {
+    "Domain":"yahoo.co.kr",
+    "Category":"Yahoo Mail",
+    "MX":"mx-apac.mail.gm0.yahoodns.net",
+    "MX Domain":"yahoodns.net"
+  },
+  {
+    "Domain":"yahoo.co.nz",
+    "Category":"Yahoo Mail",
+    "MX":"mta5.am0.yahoodns.net",
+    "MX Domain":"yahoodns.net"
+  },
+  {
+    "Domain":"yahoo.co.th",
+    "Category":"Yahoo Mail",
+    "MX":"mx-apac.mail.gm0.yahoodns.net",
+    "MX Domain":"yahoodns.net"
+  },
+  {
+    "Domain":"yahoo.co.uk",
+    "Category":"Yahoo Mail",
+    "MX":"mx-eu.mail.am0.yahoodns.net",
+    "MX Domain":"yahoodns.net"
+  },
+  {
+    "Domain":"yahoo.co.za",
+    "Category":"Yahoo Mail",
+    "MX":"mx-eu.mail.am0.yahoodns.net",
+    "MX Domain":"yahoodns.net"
+  },
+  {
+    "Domain":"yahoo.com",
+    "Category":"Yahoo Mail",
+    "MX":"mta5.am0.yahoodns.net",
+    "MX Domain":"yahoodns.net"
+  },
+  {
+    "Domain":"yahoo.com.ar",
+    "Category":"Yahoo Mail",
+    "MX":"mta5.am0.yahoodns.net",
+    "MX Domain":"yahoodns.net"
+  },
+  {
+    "Domain":"yahoo.com.au",
+    "Category":"Yahoo Mail",
+    "MX":"mta5.am0.yahoodns.net",
+    "MX Domain":"yahoodns.net"
+  },
+  {
+    "Domain":"yahoo.com.br",
+    "Category":"Yahoo Mail",
+    "MX":"mta5.am0.yahoodns.net",
+    "MX Domain":"yahoodns.net"
+  },
+  {
+    "Domain":"yahoo.com.co",
+    "Category":"Yahoo Mail",
+    "MX":"mta5.am0.yahoodns.net",
+    "MX Domain":"yahoodns.net"
+  },
+  {
+    "Domain":"yahoo.com.hk",
+    "Category":"Yahoo Mail",
+    "MX":"mx-apac.mail.gm0.yahoodns.net",
+    "MX Domain":"yahoodns.net"
+  },
+  {
+    "Domain":"yahoo.com.hr",
+    "Category":"Yahoo Mail",
+    "MX":"mx-eu.mail.am0.yahoodns.net",
+    "MX Domain":"yahoodns.net"
+  },
+  {
+    "Domain":"yahoo.com.mx",
+    "Category":"Yahoo Mail",
+    "MX":"mta5.am0.yahoodns.net",
+    "MX Domain":"yahoodns.net"
+  },
+  {
+    "Domain":"yahoo.com.my",
+    "Category":"Yahoo Mail",
+    "MX":"mx-apac.mail.gm0.yahoodns.net",
+    "MX Domain":"yahoodns.net"
+  },
+  {
+    "Domain":"yahoo.com.pe",
+    "Category":"Yahoo Mail",
+    "MX":"mta5.am0.yahoodns.net",
+    "MX Domain":"yahoodns.net"
+  },
+  {
+    "Domain":"yahoo.com.ph",
+    "Category":"Yahoo Mail",
+    "MX":"mx-apac.mail.gm0.yahoodns.net",
+    "MX Domain":"yahoodns.net"
+  },
+  {
+    "Domain":"yahoo.com.sg",
+    "Category":"Yahoo Mail",
+    "MX":"mx-apac.mail.gm0.yahoodns.net",
+    "MX Domain":"yahoodns.net"
+  },
+  {
+    "Domain":"yahoo.com.tr",
+    "Category":"Yahoo Mail",
+    "MX":"mta5.am0.yahoodns.net",
+    "MX Domain":"yahoodns.net"
+  },
+  {
+    "Domain":"yahoo.com.tw",
+    "Category":"Yahoo Mail",
+    "MX":"mx-tw.mail.gm0.yahoodns.net",
+    "MX Domain":"yahoodns.net"
+  },
+  {
+    "Domain":"yahoo.com.ua",
+    "Category":"Yahoo Mail",
+    "MX":"mx-eu.mail.am0.yahoodns.net",
+    "MX Domain":"yahoodns.net"
+  },
+  {
+    "Domain":"yahoo.com.ve",
+    "Category":"Yahoo Mail",
+    "MX":"mta5.am0.yahoodns.net",
+    "MX Domain":"yahoodns.net"
+  },
+  {
+    "Domain":"yahoo.com.vn",
+    "Category":"Yahoo Mail",
+    "MX":"mx-apac.mail.gm0.yahoodns.net",
+    "MX Domain":"yahoodns.net"
+  },
+  {
+    "Domain":"yahoo.cz",
+    "Category":"Yahoo Mail",
+    "MX":"mx-eu.mail.am0.yahoodns.net",
+    "MX Domain":"yahoodns.net"
+  },
+  {
+    "Domain":"yahoo.de",
+    "Category":"Yahoo Mail",
+    "MX":"mx-eu.mail.am0.yahoodns.net",
+    "MX Domain":"yahoodns.net"
+  },
+  {
+    "Domain":"yahoo.dk",
+    "Category":"Yahoo Mail",
+    "MX":"mx-eu.mail.am0.yahoodns.net",
+    "MX Domain":"yahoodns.net"
+  },
+  {
+    "Domain":"yahoo.ee",
+    "Category":"Yahoo Mail",
+    "MX":"mx-eu.mail.am0.yahoodns.net",
+    "MX Domain":"yahoodns.net"
+  },
+  {
+    "Domain":"yahoo.es",
+    "Category":"Yahoo Mail",
+    "MX":"mx-eu.mail.am0.yahoodns.net",
+    "MX Domain":"yahoodns.net"
+  },
+  {
+    "Domain":"yahoo.fi",
+    "Category":"Yahoo Mail",
+    "MX":"mx-eu.mail.am0.yahoodns.net",
+    "MX Domain":"yahoodns.net"
+  },
+  {
+    "Domain":"yahoo.fr",
+    "Category":"Yahoo Mail",
+    "MX":"mx-eu.mail.am0.yahoodns.net",
+    "MX Domain":"yahoodns.net"
+  },
+  {
+    "Domain":"yahoo.gr",
+    "Category":"Yahoo Mail",
+    "MX":"mx-eu.mail.am0.yahoodns.net",
+    "MX Domain":"yahoodns.net"
+  },
+  {
+    "Domain":"yahoo.hu",
+    "Category":"Yahoo Mail",
+    "MX":"mx-eu.mail.am0.yahoodns.net",
+    "MX Domain":"yahoodns.net"
+  },
+  {
+    "Domain":"yahoo.ie",
+    "Category":"Yahoo Mail",
+    "MX":"mx-eu.mail.am0.yahoodns.net",
+    "MX Domain":"yahoodns.net"
+  },
+  {
+    "Domain":"yahoo.in",
+    "Category":"Yahoo Mail",
+    "MX":"mx-apac.mail.gm0.yahoodns.net",
+    "MX Domain":"yahoodns.net"
+  },
+  {
+    "Domain":"yahoo.it",
+    "Category":"Yahoo Mail",
+    "MX":"mx-eu.mail.am0.yahoodns.net",
+    "MX Domain":"yahoodns.net"
+  },
+  {
+    "Domain":"yahoo.lt",
+    "Category":"Yahoo Mail",
+    "MX":"mx-eu.mail.am0.yahoodns.net",
+    "MX Domain":"yahoodns.net"
+  },
+  {
+    "Domain":"yahoo.lv",
+    "Category":"Yahoo Mail",
+    "MX":"mx-eu.mail.am0.yahoodns.net",
+    "MX Domain":"yahoodns.net"
+  },
+  {
+    "Domain":"yahoo.nl",
+    "Category":"Yahoo Mail",
+    "MX":"mx-eu.mail.am0.yahoodns.net",
+    "MX Domain":"yahoodns.net"
+  },
+  {
+    "Domain":"yahoo.no",
+    "Category":"Yahoo Mail",
+    "MX":"mx-eu.mail.am0.yahoodns.net",
+    "MX Domain":"yahoodns.net"
+  },
+  {
+    "Domain":"yahoo.pl",
+    "Category":"Yahoo Mail",
+    "MX":"mx-eu.mail.am0.yahoodns.net",
+    "MX Domain":"yahoodns.net"
+  },
+  {
+    "Domain":"yahoo.pt",
+    "Category":"Yahoo Mail",
+    "MX":"mx-eu.mail.am0.yahoodns.net",
+    "MX Domain":"yahoodns.net"
+  },
+  {
+    "Domain":"yahoo.ro",
+    "Category":"Yahoo Mail",
+    "MX":"mx-eu.mail.am0.yahoodns.net",
+    "MX Domain":"yahoodns.net"
+  },
+  {
+    "Domain":"yahoo.se",
+    "Category":"Yahoo Mail",
+    "MX":"mx-eu.mail.am0.yahoodns.net",
+    "MX Domain":"yahoodns.net"
+  },
+  {
+    "Domain":"yahoo.sk",
+    "Category":"Yahoo Mail",
+    "MX":"mx-eu.mail.am0.yahoodns.net",
+    "MX Domain":"yahoodns.net"
+  },
+  {
+    "Domain":"ygm.com",
+    "Category":"Yahoo Mail",
+    "MX":"mx-aol.mail.gm0.yahoodns.net",
+    "MX Domain":"yahoodns.net"
+  },
+  {
+    "Domain":"ymail.com",
+    "Category":"Yahoo Mail",
+    "MX":"mta5.am0.yahoodns.net",
+    "MX Domain":"yahoodns.net"
+  }
+]

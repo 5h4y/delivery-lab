@@ -1,0 +1,1178 @@
+[
+  {
+    "Domain":"hotmail.ac",
+    "Type":"Microsoft OLC\/Outlook.com\/Hotmail",
+    "MX Record":"nam.olc.protection.outlook.com",
+    "MX Domain":"outlook.com",
+    "MX IP":"52.101.10.17"
+  },
+  {
+    "Domain":"hotmail.as",
+    "Type":"Microsoft OLC\/Outlook.com\/Hotmail",
+    "MX Record":"apc.olc.protection.outlook.com",
+    "MX Domain":"outlook.com",
+    "MX IP":"52.101.40.7"
+  },
+  {
+    "Domain":"hotmail.at",
+    "Type":"Microsoft OLC\/Outlook.com\/Hotmail",
+    "MX Record":"eur.olc.protection.outlook.com",
+    "MX Domain":"outlook.com",
+    "MX IP":"52.101.68.19"
+  },
+  {
+    "Domain":"hotmail.ba",
+    "Type":"Microsoft OLC\/Outlook.com\/Hotmail",
+    "MX Record":"eur.olc.protection.outlook.com",
+    "MX Domain":"outlook.com",
+    "MX IP":"52.101.68.2"
+  },
+  {
+    "Domain":"hotmail.bb",
+    "Type":"Microsoft OLC\/Outlook.com\/Hotmail",
+    "MX Record":"nam.olc.protection.outlook.com",
+    "MX Domain":"outlook.com",
+    "MX IP":"52.101.10.7"
+  },
+  {
+    "Domain":"hotmail.be",
+    "Type":"Microsoft OLC\/Outlook.com\/Hotmail",
+    "MX Record":"eur.olc.protection.outlook.com",
+    "MX Domain":"outlook.com",
+    "MX IP":"52.101.68.11"
+  },
+  {
+    "Domain":"hotmail.bs",
+    "Type":"Microsoft OLC\/Outlook.com\/Hotmail",
+    "MX Record":"nam.olc.protection.outlook.com",
+    "MX Domain":"outlook.com",
+    "MX IP":"52.101.10.3"
+  },
+  {
+    "Domain":"hotmail.ca",
+    "Type":"Microsoft OLC\/Outlook.com\/Hotmail",
+    "MX Record":"hotmail-com.olc.protection.outlook.com",
+    "MX Domain":"outlook.com",
+    "MX IP":"52.101.40.25"
+  },
+  {
+    "Domain":"hotmail.ch",
+    "Type":"Microsoft OLC\/Outlook.com\/Hotmail",
+    "MX Record":"eur.olc.protection.outlook.com",
+    "MX Domain":"outlook.com",
+    "MX IP":"52.101.68.13"
+  },
+  {
+    "Domain":"hotmail.cl",
+    "Type":"Microsoft OLC\/Outlook.com\/Hotmail",
+    "MX Record":"nam.olc.protection.outlook.com",
+    "MX Domain":"outlook.com",
+    "MX IP":"52.101.194.11"
+  },
+  {
+    "Domain":"hotmail.co.at",
+    "Type":"Microsoft OLC\/Outlook.com\/Hotmail",
+    "MX Record":"eur.olc.protection.outlook.com",
+    "MX Domain":"outlook.com",
+    "MX IP":"52.101.68.33"
+  },
+  {
+    "Domain":"hotmail.co.id",
+    "Type":"Microsoft OLC\/Outlook.com\/Hotmail",
+    "MX Record":"apc.olc.protection.outlook.com",
+    "MX Domain":"outlook.com",
+    "MX IP":"52.101.11.5"
+  },
+  {
+    "Domain":"hotmail.co.il",
+    "Type":"Microsoft OLC\/Outlook.com\/Hotmail",
+    "MX Record":"eur.olc.protection.outlook.com",
+    "MX Domain":"outlook.com",
+    "MX IP":"52.101.68.13"
+  },
+  {
+    "Domain":"hotmail.co.in",
+    "Type":"Microsoft OLC\/Outlook.com\/Hotmail",
+    "MX Record":"apc.olc.protection.outlook.com",
+    "MX Domain":"outlook.com",
+    "MX IP":"52.101.10.9"
+  },
+  {
+    "Domain":"hotmail.co.jp",
+    "Type":"Microsoft OLC\/Outlook.com\/Hotmail",
+    "MX Record":"apc.olc.protection.outlook.com",
+    "MX Domain":"outlook.com",
+    "MX IP":"52.101.68.14"
+  },
+  {
+    "Domain":"hotmail.co.kr",
+    "Type":"Microsoft OLC\/Outlook.com\/Hotmail",
+    "MX Record":"apc.olc.protection.outlook.com",
+    "MX Domain":"outlook.com",
+    "MX IP":"52.101.11.8"
+  },
+  {
+    "Domain":"hotmail.co.nz",
+    "Type":"Microsoft OLC\/Outlook.com\/Hotmail",
+    "MX Record":"apc.olc.protection.outlook.com",
+    "MX Domain":"outlook.com",
+    "MX IP":"52.101.41.29"
+  },
+  {
+    "Domain":"hotmail.co.pn",
+    "Type":"Microsoft OLC\/Outlook.com\/Hotmail",
+    "MX Record":"apc.olc.protection.outlook.com",
+    "MX Domain":"outlook.com",
+    "MX IP":"52.101.194.18"
+  },
+  {
+    "Domain":"hotmail.co.th",
+    "Type":"Microsoft OLC\/Outlook.com\/Hotmail",
+    "MX Record":"apc.olc.protection.outlook.com",
+    "MX Domain":"outlook.com",
+    "MX IP":"52.101.11.11"
+  },
+  {
+    "Domain":"hotmail.co.ug",
+    "Type":"Microsoft OLC\/Outlook.com\/Hotmail",
+    "MX Record":"eur.olc.protection.outlook.com",
+    "MX Domain":"outlook.com",
+    "MX IP":"52.101.68.2"
+  },
+  {
+    "Domain":"hotmail.co.uk",
+    "Type":"Microsoft OLC\/Outlook.com\/Hotmail",
+    "MX Record":"eur.olc.protection.outlook.com",
+    "MX Domain":"outlook.com",
+    "MX IP":"52.101.68.1"
+  },
+  {
+    "Domain":"hotmail.co.ve",
+    "Type":"Microsoft OLC\/Outlook.com\/Hotmail",
+    "MX Record":"nam.olc.protection.outlook.com",
+    "MX Domain":"outlook.com",
+    "MX IP":"52.101.11.4"
+  },
+  {
+    "Domain":"hotmail.co.za",
+    "Type":"Microsoft OLC\/Outlook.com\/Hotmail",
+    "MX Record":"eur.olc.protection.outlook.com",
+    "MX Domain":"outlook.com",
+    "MX IP":"52.101.73.23"
+  },
+  {
+    "Domain":"hotmail.com",
+    "Type":"Microsoft OLC\/Outlook.com\/Hotmail",
+    "MX Record":"hotmail-com.olc.protection.outlook.com",
+    "MX Domain":"outlook.com",
+    "MX IP":"52.101.137.1"
+  },
+  {
+    "Domain":"hotmail.com.ar",
+    "Type":"Microsoft OLC\/Outlook.com\/Hotmail",
+    "MX Record":"nam.olc.protection.outlook.com",
+    "MX Domain":"outlook.com",
+    "MX IP":"52.101.194.10"
+  },
+  {
+    "Domain":"hotmail.com.au",
+    "Type":"Microsoft OLC\/Outlook.com\/Hotmail",
+    "MX Record":"apc.olc.protection.outlook.com",
+    "MX Domain":"outlook.com",
+    "MX IP":"52.101.10.11"
+  },
+  {
+    "Domain":"hotmail.com.bo",
+    "Type":"Microsoft OLC\/Outlook.com\/Hotmail",
+    "MX Record":"nam.olc.protection.outlook.com",
+    "MX Domain":"outlook.com",
+    "MX IP":"52.101.10.13"
+  },
+  {
+    "Domain":"hotmail.com.br",
+    "Type":"Microsoft OLC\/Outlook.com\/Hotmail",
+    "MX Record":"nam.olc.protection.outlook.com",
+    "MX Domain":"outlook.com",
+    "MX IP":"52.101.11.6"
+  },
+  {
+    "Domain":"hotmail.com.do",
+    "Type":"Microsoft OLC\/Outlook.com\/Hotmail",
+    "MX Record":"nam.olc.protection.outlook.com",
+    "MX Domain":"outlook.com",
+    "MX IP":"52.101.11.4"
+  },
+  {
+    "Domain":"hotmail.com.hk",
+    "Type":"Microsoft OLC\/Outlook.com\/Hotmail",
+    "MX Record":"apc.olc.protection.outlook.com",
+    "MX Domain":"outlook.com",
+    "MX IP":"52.101.10.9"
+  },
+  {
+    "Domain":"hotmail.com.ly",
+    "Type":"Microsoft OLC\/Outlook.com\/Hotmail",
+    "MX Record":"eur.olc.protection.outlook.com",
+    "MX Domain":"outlook.com",
+    "MX IP":"52.101.68.13"
+  },
+  {
+    "Domain":"hotmail.com.my",
+    "Type":"Microsoft OLC\/Outlook.com\/Hotmail",
+    "MX Record":"apc.olc.protection.outlook.com",
+    "MX Domain":"outlook.com",
+    "MX IP":"52.101.10.7"
+  },
+  {
+    "Domain":"hotmail.com.ph",
+    "Type":"Microsoft OLC\/Outlook.com\/Hotmail",
+    "MX Record":"apc.olc.protection.outlook.com",
+    "MX Domain":"outlook.com",
+    "MX IP":"52.101.194.1"
+  },
+  {
+    "Domain":"hotmail.com.pl",
+    "Type":"Microsoft OLC\/Outlook.com\/Hotmail",
+    "MX Record":"eur.olc.protection.outlook.com",
+    "MX Domain":"outlook.com",
+    "MX IP":"52.101.68.11"
+  },
+  {
+    "Domain":"hotmail.com.ru",
+    "Type":"Microsoft OLC\/Outlook.com\/Hotmail",
+    "MX Record":"eur.olc.protection.outlook.com",
+    "MX Domain":"outlook.com",
+    "MX IP":"52.101.68.2"
+  },
+  {
+    "Domain":"hotmail.com.sg",
+    "Type":"Microsoft OLC\/Outlook.com\/Hotmail",
+    "MX Record":"apc.olc.protection.outlook.com",
+    "MX Domain":"outlook.com",
+    "MX IP":"52.101.11.8"
+  },
+  {
+    "Domain":"hotmail.com.tr",
+    "Type":"Microsoft OLC\/Outlook.com\/Hotmail",
+    "MX Record":"eur.olc.protection.outlook.com",
+    "MX Domain":"outlook.com",
+    "MX IP":"52.101.73.10"
+  },
+  {
+    "Domain":"hotmail.com.tt",
+    "Type":"Microsoft OLC\/Outlook.com\/Hotmail",
+    "MX Record":"nam.olc.protection.outlook.com",
+    "MX Domain":"outlook.com",
+    "MX IP":"52.101.40.7"
+  },
+  {
+    "Domain":"hotmail.com.tw",
+    "Type":"Microsoft OLC\/Outlook.com\/Hotmail",
+    "MX Record":"apc.olc.protection.outlook.com",
+    "MX Domain":"outlook.com",
+    "MX IP":"52.101.194.1"
+  },
+  {
+    "Domain":"hotmail.com.uz",
+    "Type":"Microsoft OLC\/Outlook.com\/Hotmail",
+    "MX Record":"apc.olc.protection.outlook.com",
+    "MX Domain":"outlook.com",
+    "MX IP":"52.101.132.31"
+  },
+  {
+    "Domain":"hotmail.com.ve",
+    "Type":"Microsoft OLC\/Outlook.com\/Hotmail",
+    "MX Record":"nam.olc.protection.outlook.com",
+    "MX Domain":"outlook.com",
+    "MX IP":"52.101.10.3"
+  },
+  {
+    "Domain":"hotmail.com.vn",
+    "Type":"Microsoft OLC\/Outlook.com\/Hotmail",
+    "MX Record":"apc.olc.protection.outlook.com",
+    "MX Domain":"outlook.com",
+    "MX IP":"52.101.41.23"
+  },
+  {
+    "Domain":"hotmail.de",
+    "Type":"Microsoft OLC\/Outlook.com\/Hotmail",
+    "MX Record":"eur.olc.protection.outlook.com",
+    "MX Domain":"outlook.com",
+    "MX IP":"52.101.68.11"
+  },
+  {
+    "Domain":"hotmail.dk",
+    "Type":"Microsoft OLC\/Outlook.com\/Hotmail",
+    "MX Record":"eur.olc.protection.outlook.com",
+    "MX Domain":"outlook.com",
+    "MX IP":"52.101.73.10"
+  },
+  {
+    "Domain":"hotmail.ee",
+    "Type":"Microsoft OLC\/Outlook.com\/Hotmail",
+    "MX Record":"eur.olc.protection.outlook.com",
+    "MX Domain":"outlook.com",
+    "MX IP":"52.101.68.20"
+  },
+  {
+    "Domain":"hotmail.es",
+    "Type":"Microsoft OLC\/Outlook.com\/Hotmail",
+    "MX Record":"eur.olc.protection.outlook.com",
+    "MX Domain":"outlook.com",
+    "MX IP":"52.101.68.20"
+  },
+  {
+    "Domain":"hotmail.fi",
+    "Type":"Microsoft OLC\/Outlook.com\/Hotmail",
+    "MX Record":"eur.olc.protection.outlook.com",
+    "MX Domain":"outlook.com",
+    "MX IP":"52.101.68.17"
+  },
+  {
+    "Domain":"hotmail.fr",
+    "Type":"Microsoft OLC\/Outlook.com\/Hotmail",
+    "MX Record":"eur.olc.protection.outlook.com",
+    "MX Domain":"outlook.com",
+    "MX IP":"52.101.68.14"
+  },
+  {
+    "Domain":"hotmail.gr",
+    "Type":"Microsoft OLC\/Outlook.com\/Hotmail",
+    "MX Record":"eur.olc.protection.outlook.com",
+    "MX Domain":"outlook.com",
+    "MX IP":"52.101.68.14"
+  },
+  {
+    "Domain":"hotmail.hk",
+    "Type":"Microsoft OLC\/Outlook.com\/Hotmail",
+    "MX Record":"apc.olc.protection.outlook.com",
+    "MX Domain":"outlook.com",
+    "MX IP":"52.101.41.20"
+  },
+  {
+    "Domain":"hotmail.hu",
+    "Type":"Microsoft OLC\/Outlook.com\/Hotmail",
+    "MX Record":"eur.olc.protection.outlook.com",
+    "MX Domain":"outlook.com",
+    "MX IP":"52.101.68.17"
+  },
+  {
+    "Domain":"hotmail.ie",
+    "Type":"Microsoft OLC\/Outlook.com\/Hotmail",
+    "MX Record":"eur.olc.protection.outlook.com",
+    "MX Domain":"outlook.com",
+    "MX IP":"52.101.68.11"
+  },
+  {
+    "Domain":"hotmail.it",
+    "Type":"Microsoft OLC\/Outlook.com\/Hotmail",
+    "MX Record":"eur.olc.protection.outlook.com",
+    "MX Domain":"outlook.com",
+    "MX IP":"52.101.68.19"
+  },
+  {
+    "Domain":"hotmail.jp",
+    "Type":"Microsoft OLC\/Outlook.com\/Hotmail",
+    "MX Record":"apc.olc.protection.outlook.com",
+    "MX Domain":"outlook.com",
+    "MX IP":"52.101.194.16"
+  },
+  {
+    "Domain":"hotmail.la",
+    "Type":"Microsoft OLC\/Outlook.com\/Hotmail",
+    "MX Record":"apc.olc.protection.outlook.com",
+    "MX Domain":"outlook.com",
+    "MX IP":"52.101.40.30"
+  },
+  {
+    "Domain":"hotmail.lt",
+    "Type":"Microsoft OLC\/Outlook.com\/Hotmail",
+    "MX Record":"eur.olc.protection.outlook.com",
+    "MX Domain":"outlook.com",
+    "MX IP":"52.101.68.14"
+  },
+  {
+    "Domain":"hotmail.lu",
+    "Type":"Microsoft OLC\/Outlook.com\/Hotmail",
+    "MX Record":"eur.olc.protection.outlook.com",
+    "MX Domain":"outlook.com",
+    "MX IP":"52.101.68.38"
+  },
+  {
+    "Domain":"hotmail.lv",
+    "Type":"Microsoft OLC\/Outlook.com\/Hotmail",
+    "MX Record":"eur.olc.protection.outlook.com",
+    "MX Domain":"outlook.com",
+    "MX IP":"52.101.68.11"
+  },
+  {
+    "Domain":"hotmail.ly",
+    "Type":"Microsoft OLC\/Outlook.com\/Hotmail",
+    "MX Record":"eur.olc.protection.outlook.com",
+    "MX Domain":"outlook.com",
+    "MX IP":"52.101.68.13"
+  },
+  {
+    "Domain":"hotmail.mn",
+    "Type":"Microsoft OLC\/Outlook.com\/Hotmail",
+    "MX Record":"apc.olc.protection.outlook.com",
+    "MX Domain":"outlook.com",
+    "MX IP":"52.101.11.18"
+  },
+  {
+    "Domain":"hotmail.mw",
+    "Type":"Microsoft OLC\/Outlook.com\/Hotmail",
+    "MX Record":"eur.olc.protection.outlook.com",
+    "MX Domain":"outlook.com",
+    "MX IP":"52.101.68.13"
+  },
+  {
+    "Domain":"hotmail.my",
+    "Type":"Microsoft OLC\/Outlook.com\/Hotmail",
+    "MX Record":"apc.olc.protection.outlook.com",
+    "MX Domain":"outlook.com",
+    "MX IP":"52.101.41.1"
+  },
+  {
+    "Domain":"hotmail.net.fj",
+    "Type":"Microsoft OLC\/Outlook.com\/Hotmail",
+    "MX Record":"apc.olc.protection.outlook.com",
+    "MX Domain":"outlook.com",
+    "MX IP":"52.101.10.0"
+  },
+  {
+    "Domain":"hotmail.no",
+    "Type":"Microsoft OLC\/Outlook.com\/Hotmail",
+    "MX Record":"eur.olc.protection.outlook.com",
+    "MX Domain":"outlook.com",
+    "MX IP":"52.101.68.14"
+  },
+  {
+    "Domain":"hotmail.ph",
+    "Type":"Microsoft OLC\/Outlook.com\/Hotmail",
+    "MX Record":"apc.olc.protection.outlook.com",
+    "MX Domain":"outlook.com",
+    "MX IP":"52.101.41.20"
+  },
+  {
+    "Domain":"hotmail.pn",
+    "Type":"Microsoft OLC\/Outlook.com\/Hotmail",
+    "MX Record":"apc.olc.protection.outlook.com",
+    "MX Domain":"outlook.com",
+    "MX IP":"52.101.41.55"
+  },
+  {
+    "Domain":"hotmail.pt",
+    "Type":"Microsoft OLC\/Outlook.com\/Hotmail",
+    "MX Record":"eur.olc.protection.outlook.com",
+    "MX Domain":"outlook.com",
+    "MX IP":"52.101.68.20"
+  },
+  {
+    "Domain":"hotmail.rs",
+    "Type":"Microsoft OLC\/Outlook.com\/Hotmail",
+    "MX Record":"eur.olc.protection.outlook.com",
+    "MX Domain":"outlook.com",
+    "MX IP":"52.101.68.9"
+  },
+  {
+    "Domain":"hotmail.se",
+    "Type":"Microsoft OLC\/Outlook.com\/Hotmail",
+    "MX Record":"eur.olc.protection.outlook.com",
+    "MX Domain":"outlook.com",
+    "MX IP":"52.101.68.33"
+  },
+  {
+    "Domain":"hotmail.sg",
+    "Type":"Microsoft OLC\/Outlook.com\/Hotmail",
+    "MX Record":"apc.olc.protection.outlook.com",
+    "MX Domain":"outlook.com",
+    "MX IP":"52.101.137.1"
+  },
+  {
+    "Domain":"hotmail.sh",
+    "Type":"Microsoft OLC\/Outlook.com\/Hotmail",
+    "MX Record":"eur.olc.protection.outlook.com",
+    "MX Domain":"outlook.com",
+    "MX IP":"52.101.68.2"
+  },
+  {
+    "Domain":"hotmail.sk",
+    "Type":"Microsoft OLC\/Outlook.com\/Hotmail",
+    "MX Record":"eur.olc.protection.outlook.com",
+    "MX Domain":"outlook.com",
+    "MX IP":"52.101.68.19"
+  },
+  {
+    "Domain":"hotmail.ua",
+    "Type":"Microsoft OLC\/Outlook.com\/Hotmail",
+    "MX Record":"eur.olc.protection.outlook.com",
+    "MX Domain":"outlook.com",
+    "MX IP":"52.101.73.0"
+  },
+  {
+    "Domain":"hotmail.vu",
+    "Type":"Microsoft OLC\/Outlook.com\/Hotmail",
+    "MX Record":"apc.olc.protection.outlook.com",
+    "MX Domain":"outlook.com",
+    "MX IP":"52.101.194.2"
+  },
+  {
+    "Domain":"live.at",
+    "Type":"Microsoft OLC\/Outlook.com\/Hotmail",
+    "MX Record":"eur.olc.protection.outlook.com",
+    "MX Domain":"outlook.com",
+    "MX IP":"52.101.68.20"
+  },
+  {
+    "Domain":"live.be",
+    "Type":"Microsoft OLC\/Outlook.com\/Hotmail",
+    "MX Record":"eur.olc.protection.outlook.com",
+    "MX Domain":"outlook.com",
+    "MX IP":"52.101.68.14"
+  },
+  {
+    "Domain":"live.ca",
+    "Type":"Microsoft OLC\/Outlook.com\/Hotmail",
+    "MX Record":"nam.olc.protection.outlook.com",
+    "MX Domain":"outlook.com",
+    "MX IP":"52.101.11.4"
+  },
+  {
+    "Domain":"live.ch",
+    "Type":"Microsoft OLC\/Outlook.com\/Hotmail",
+    "MX Record":"eur.olc.protection.outlook.com",
+    "MX Domain":"outlook.com",
+    "MX IP":"52.101.68.19"
+  },
+  {
+    "Domain":"live.cl",
+    "Type":"Microsoft OLC\/Outlook.com\/Hotmail",
+    "MX Record":"nam.olc.protection.outlook.com",
+    "MX Domain":"outlook.com",
+    "MX IP":"52.101.10.19"
+  },
+  {
+    "Domain":"live.cn",
+    "Type":"Microsoft OLC\/Outlook.com\/Hotmail",
+    "MX Record":"apc.olc.protection.outlook.com",
+    "MX Domain":"outlook.com",
+    "MX IP":"52.101.10.0"
+  },
+  {
+    "Domain":"live.co.in",
+    "Type":"Microsoft OLC\/Outlook.com\/Hotmail",
+    "MX Record":"apc.olc.protection.outlook.com",
+    "MX Domain":"outlook.com",
+    "MX IP":"52.101.10.13"
+  },
+  {
+    "Domain":"live.co.kr",
+    "Type":"Microsoft OLC\/Outlook.com\/Hotmail",
+    "MX Record":"apc.olc.protection.outlook.com",
+    "MX Domain":"outlook.com",
+    "MX IP":"52.101.11.6"
+  },
+  {
+    "Domain":"live.co.uk",
+    "Type":"Microsoft OLC\/Outlook.com\/Hotmail",
+    "MX Record":"eur.olc.protection.outlook.com",
+    "MX Domain":"outlook.com",
+    "MX IP":"52.101.68.17"
+  },
+  {
+    "Domain":"live.co.za",
+    "Type":"Microsoft OLC\/Outlook.com\/Hotmail",
+    "MX Record":"eur.olc.protection.outlook.com",
+    "MX Domain":"outlook.com",
+    "MX IP":"52.101.68.14"
+  },
+  {
+    "Domain":"live.com",
+    "Type":"Microsoft OLC\/Outlook.com\/Hotmail",
+    "MX Record":"live-com.olc.protection.outlook.com",
+    "MX Domain":"outlook.com",
+    "MX IP":"52.101.10.19"
+  },
+  {
+    "Domain":"live.com.ar",
+    "Type":"Microsoft OLC\/Outlook.com\/Hotmail",
+    "MX Record":"nam.olc.protection.outlook.com",
+    "MX Domain":"outlook.com",
+    "MX IP":"52.101.194.10"
+  },
+  {
+    "Domain":"live.com.au",
+    "Type":"Microsoft OLC\/Outlook.com\/Hotmail",
+    "MX Record":"apc.olc.protection.outlook.com",
+    "MX Domain":"outlook.com",
+    "MX IP":"52.101.137.1"
+  },
+  {
+    "Domain":"live.com.co",
+    "Type":"Microsoft OLC\/Outlook.com\/Hotmail",
+    "MX Record":"nam.olc.protection.outlook.com",
+    "MX Domain":"outlook.com",
+    "MX IP":"52.101.10.4"
+  },
+  {
+    "Domain":"live.com.mx",
+    "Type":"Microsoft OLC\/Outlook.com\/Hotmail",
+    "MX Record":"nam.olc.protection.outlook.com",
+    "MX Domain":"outlook.com",
+    "MX IP":"52.101.10.19"
+  },
+  {
+    "Domain":"live.com.my",
+    "Type":"Microsoft OLC\/Outlook.com\/Hotmail",
+    "MX Record":"apc.olc.protection.outlook.com",
+    "MX Domain":"outlook.com",
+    "MX IP":"52.101.11.4"
+  },
+  {
+    "Domain":"live.com.pe",
+    "Type":"Microsoft OLC\/Outlook.com\/Hotmail",
+    "MX Record":"nam.olc.protection.outlook.com",
+    "MX Domain":"outlook.com",
+    "MX IP":"52.101.194.11"
+  },
+  {
+    "Domain":"live.com.ph",
+    "Type":"Microsoft OLC\/Outlook.com\/Hotmail",
+    "MX Record":"apc.olc.protection.outlook.com",
+    "MX Domain":"outlook.com",
+    "MX IP":"52.101.132.31"
+  },
+  {
+    "Domain":"live.com.pk",
+    "Type":"Microsoft OLC\/Outlook.com\/Hotmail",
+    "MX Record":"apc.olc.protection.outlook.com",
+    "MX Domain":"outlook.com",
+    "MX IP":"52.101.10.19"
+  },
+  {
+    "Domain":"live.com.pt",
+    "Type":"Microsoft OLC\/Outlook.com\/Hotmail",
+    "MX Record":"eur.olc.protection.outlook.com",
+    "MX Domain":"outlook.com",
+    "MX IP":"52.101.68.14"
+  },
+  {
+    "Domain":"live.com.sg",
+    "Type":"Microsoft OLC\/Outlook.com\/Hotmail",
+    "MX Record":"apc.olc.protection.outlook.com",
+    "MX Domain":"outlook.com",
+    "MX IP":"52.101.11.8"
+  },
+  {
+    "Domain":"live.com.ve",
+    "Type":"Microsoft OLC\/Outlook.com\/Hotmail",
+    "MX Record":"nam.olc.protection.outlook.com",
+    "MX Domain":"outlook.com",
+    "MX IP":"52.101.11.11"
+  },
+  {
+    "Domain":"live.de",
+    "Type":"Microsoft OLC\/Outlook.com\/Hotmail",
+    "MX Record":"eur.olc.protection.outlook.com",
+    "MX Domain":"outlook.com",
+    "MX IP":"52.101.68.13"
+  },
+  {
+    "Domain":"live.dk",
+    "Type":"Microsoft OLC\/Outlook.com\/Hotmail",
+    "MX Record":"eur.olc.protection.outlook.com",
+    "MX Domain":"outlook.com",
+    "MX IP":"52.101.68.1"
+  },
+  {
+    "Domain":"live.fi",
+    "Type":"Microsoft OLC\/Outlook.com\/Hotmail",
+    "MX Record":"eur.olc.protection.outlook.com",
+    "MX Domain":"outlook.com",
+    "MX IP":"52.101.68.1"
+  },
+  {
+    "Domain":"live.fr",
+    "Type":"Microsoft OLC\/Outlook.com\/Hotmail",
+    "MX Record":"eur.olc.protection.outlook.com",
+    "MX Domain":"outlook.com",
+    "MX IP":"52.101.68.11"
+  },
+  {
+    "Domain":"live.hk",
+    "Type":"Microsoft OLC\/Outlook.com\/Hotmail",
+    "MX Record":"apc.olc.protection.outlook.com",
+    "MX Domain":"outlook.com",
+    "MX IP":"52.101.11.6"
+  },
+  {
+    "Domain":"live.ie",
+    "Type":"Microsoft OLC\/Outlook.com\/Hotmail",
+    "MX Record":"eur.olc.protection.outlook.com",
+    "MX Domain":"outlook.com",
+    "MX IP":"52.101.68.2"
+  },
+  {
+    "Domain":"live.in",
+    "Type":"Microsoft OLC\/Outlook.com\/Hotmail",
+    "MX Record":"apc.olc.protection.outlook.com",
+    "MX Domain":"outlook.com",
+    "MX IP":"52.101.10.0"
+  },
+  {
+    "Domain":"live.it",
+    "Type":"Microsoft OLC\/Outlook.com\/Hotmail",
+    "MX Record":"eur.olc.protection.outlook.com",
+    "MX Domain":"outlook.com",
+    "MX IP":"52.101.68.14"
+  },
+  {
+    "Domain":"live.jp",
+    "Type":"Microsoft OLC\/Outlook.com\/Hotmail",
+    "MX Record":"apc.olc.protection.outlook.com",
+    "MX Domain":"outlook.com",
+    "MX IP":"52.101.11.8"
+  },
+  {
+    "Domain":"live.nl",
+    "Type":"Microsoft OLC\/Outlook.com\/Hotmail",
+    "MX Record":"eur.olc.protection.outlook.com",
+    "MX Domain":"outlook.com",
+    "MX IP":"52.101.68.17"
+  },
+  {
+    "Domain":"live.no",
+    "Type":"Microsoft OLC\/Outlook.com\/Hotmail",
+    "MX Record":"eur.olc.protection.outlook.com",
+    "MX Domain":"outlook.com",
+    "MX IP":"52.101.68.20"
+  },
+  {
+    "Domain":"live.ph",
+    "Type":"Microsoft OLC\/Outlook.com\/Hotmail",
+    "MX Record":"apc.olc.protection.outlook.com",
+    "MX Domain":"outlook.com",
+    "MX IP":"52.101.137.3"
+  },
+  {
+    "Domain":"live.ru",
+    "Type":"Microsoft OLC\/Outlook.com\/Hotmail",
+    "MX Record":"eur.olc.protection.outlook.com",
+    "MX Domain":"outlook.com",
+    "MX IP":"52.101.68.17"
+  },
+  {
+    "Domain":"live.se",
+    "Type":"Microsoft OLC\/Outlook.com\/Hotmail",
+    "MX Record":"eur.olc.protection.outlook.com",
+    "MX Domain":"outlook.com",
+    "MX IP":"52.101.68.11"
+  },
+  {
+    "Domain":"msn.com",
+    "Type":"Microsoft OLC\/Outlook.com\/Hotmail",
+    "MX Record":"msn-com.olc.protection.outlook.com",
+    "MX Domain":"outlook.com",
+    "MX IP":"52.101.10.7"
+  },
+  {
+    "Domain":"msn.nl",
+    "Type":"Microsoft OLC\/Outlook.com\/Hotmail",
+    "MX Record":"msn-com.olc.protection.outlook.com",
+    "MX Domain":"outlook.com",
+    "MX IP":"52.101.68.14"
+  },
+  {
+    "Domain":"outlook.at",
+    "Type":"Microsoft OLC\/Outlook.com\/Hotmail",
+    "MX Record":"eur.olc.protection.outlook.com",
+    "MX Domain":"outlook.com",
+    "MX IP":"52.101.68.13"
+  },
+  {
+    "Domain":"outlook.be",
+    "Type":"Microsoft OLC\/Outlook.com\/Hotmail",
+    "MX Record":"eur.olc.protection.outlook.com",
+    "MX Domain":"outlook.com",
+    "MX IP":"52.101.68.14"
+  },
+  {
+    "Domain":"outlook.bg",
+    "Type":"Microsoft OLC\/Outlook.com\/Hotmail",
+    "MX Record":"eur.olc.protection.outlook.com",
+    "MX Domain":"outlook.com",
+    "MX IP":"52.101.68.2"
+  },
+  {
+    "Domain":"outlook.bz",
+    "Type":"Microsoft OLC\/Outlook.com\/Hotmail",
+    "MX Record":"nam.olc.protection.outlook.com",
+    "MX Domain":"outlook.com",
+    "MX IP":"52.101.41.25"
+  },
+  {
+    "Domain":"outlook.cl",
+    "Type":"Microsoft OLC\/Outlook.com\/Hotmail",
+    "MX Record":"nam.olc.protection.outlook.com",
+    "MX Domain":"outlook.com",
+    "MX IP":"52.101.10.0"
+  },
+  {
+    "Domain":"outlook.cm",
+    "Type":"Microsoft OLC\/Outlook.com\/Hotmail",
+    "MX Record":"eur.olc.protection.outlook.com",
+    "MX Domain":"outlook.com",
+    "MX IP":"52.101.68.38"
+  },
+  {
+    "Domain":"outlook.co",
+    "Type":"Microsoft OLC\/Outlook.com\/Hotmail",
+    "MX Record":"nam.olc.protection.outlook.com",
+    "MX Domain":"outlook.com",
+    "MX IP":"52.101.10.15"
+  },
+  {
+    "Domain":"outlook.co.cr",
+    "Type":"Microsoft OLC\/Outlook.com\/Hotmail",
+    "MX Record":"nam.olc.protection.outlook.com",
+    "MX Domain":"outlook.com",
+    "MX IP":"52.101.10.9"
+  },
+  {
+    "Domain":"outlook.co.id",
+    "Type":"Microsoft OLC\/Outlook.com\/Hotmail",
+    "MX Record":"apc.olc.protection.outlook.com",
+    "MX Domain":"outlook.com",
+    "MX IP":"52.101.11.8"
+  },
+  {
+    "Domain":"outlook.co.il",
+    "Type":"Microsoft OLC\/Outlook.com\/Hotmail",
+    "MX Record":"eur.olc.protection.outlook.com",
+    "MX Domain":"outlook.com",
+    "MX IP":"52.101.68.14"
+  },
+  {
+    "Domain":"outlook.co.nz",
+    "Type":"Microsoft OLC\/Outlook.com\/Hotmail",
+    "MX Record":"apc.olc.protection.outlook.com",
+    "MX Domain":"outlook.com",
+    "MX IP":"52.101.11.20"
+  },
+  {
+    "Domain":"outlook.co.th",
+    "Type":"Microsoft OLC\/Outlook.com\/Hotmail",
+    "MX Record":"apc.olc.protection.outlook.com",
+    "MX Domain":"outlook.com",
+    "MX IP":"52.101.11.4"
+  },
+  {
+    "Domain":"outlook.com",
+    "Type":"Microsoft OLC\/Outlook.com\/Hotmail",
+    "MX Record":"outlook-com.olc.protection.outlook.com",
+    "MX Domain":"outlook.com",
+    "MX IP":"52.101.194.1"
+  },
+  {
+    "Domain":"outlook.com.ar",
+    "Type":"Microsoft OLC\/Outlook.com\/Hotmail",
+    "MX Record":"nam.olc.protection.outlook.com",
+    "MX Domain":"outlook.com",
+    "MX IP":"52.101.10.13"
+  },
+  {
+    "Domain":"outlook.com.au",
+    "Type":"Microsoft OLC\/Outlook.com\/Hotmail",
+    "MX Record":"apc.olc.protection.outlook.com",
+    "MX Domain":"outlook.com",
+    "MX IP":"52.101.40.25"
+  },
+  {
+    "Domain":"outlook.com.br",
+    "Type":"Microsoft OLC\/Outlook.com\/Hotmail",
+    "MX Record":"nam.olc.protection.outlook.com",
+    "MX Domain":"outlook.com",
+    "MX IP":"52.101.10.13"
+  },
+  {
+    "Domain":"outlook.com.es",
+    "Type":"Microsoft OLC\/Outlook.com\/Hotmail",
+    "MX Record":"eur.olc.protection.outlook.com",
+    "MX Domain":"outlook.com",
+    "MX IP":"52.101.68.20"
+  },
+  {
+    "Domain":"outlook.com.gr",
+    "Type":"Microsoft OLC\/Outlook.com\/Hotmail",
+    "MX Record":"eur.olc.protection.outlook.com",
+    "MX Domain":"outlook.com",
+    "MX IP":"52.101.68.14"
+  },
+  {
+    "Domain":"outlook.com.hr",
+    "Type":"Microsoft OLC\/Outlook.com\/Hotmail",
+    "MX Record":"eur.olc.protection.outlook.com",
+    "MX Domain":"outlook.com",
+    "MX IP":"52.101.68.11"
+  },
+  {
+    "Domain":"outlook.com.pe",
+    "Type":"Microsoft OLC\/Outlook.com\/Hotmail",
+    "MX Record":"nam.olc.protection.outlook.com",
+    "MX Domain":"outlook.com",
+    "MX IP":"52.101.11.8"
+  },
+  {
+    "Domain":"outlook.com.py",
+    "Type":"Microsoft OLC\/Outlook.com\/Hotmail",
+    "MX Record":"nam.olc.protection.outlook.com",
+    "MX Domain":"outlook.com",
+    "MX IP":"52.101.10.13"
+  },
+  {
+    "Domain":"outlook.com.tr",
+    "Type":"Microsoft OLC\/Outlook.com\/Hotmail",
+    "MX Record":"eur.olc.protection.outlook.com",
+    "MX Domain":"outlook.com",
+    "MX IP":"52.101.68.13"
+  },
+  {
+    "Domain":"outlook.com.ua",
+    "Type":"Microsoft OLC\/Outlook.com\/Hotmail",
+    "MX Record":"eur.olc.protection.outlook.com",
+    "MX Domain":"outlook.com",
+    "MX IP":"52.101.68.11"
+  },
+  {
+    "Domain":"outlook.com.vn",
+    "Type":"Microsoft OLC\/Outlook.com\/Hotmail",
+    "MX Record":"apc.olc.protection.outlook.com",
+    "MX Domain":"outlook.com",
+    "MX IP":"52.101.10.13"
+  },
+  {
+    "Domain":"outlook.cz",
+    "Type":"Microsoft OLC\/Outlook.com\/Hotmail",
+    "MX Record":"eur.olc.protection.outlook.com",
+    "MX Domain":"outlook.com",
+    "MX IP":"52.101.68.13"
+  },
+  {
+    "Domain":"outlook.de",
+    "Type":"Microsoft OLC\/Outlook.com\/Hotmail",
+    "MX Record":"eur.olc.protection.outlook.com",
+    "MX Domain":"outlook.com",
+    "MX IP":"52.101.68.38"
+  },
+  {
+    "Domain":"outlook.dk",
+    "Type":"Microsoft OLC\/Outlook.com\/Hotmail",
+    "MX Record":"eur.olc.protection.outlook.com",
+    "MX Domain":"outlook.com",
+    "MX IP":"52.101.68.19"
+  },
+  {
+    "Domain":"outlook.ec",
+    "Type":"Microsoft OLC\/Outlook.com\/Hotmail",
+    "MX Record":"nam.olc.protection.outlook.com",
+    "MX Domain":"outlook.com",
+    "MX IP":"52.101.11.4"
+  },
+  {
+    "Domain":"outlook.es",
+    "Type":"Microsoft OLC\/Outlook.com\/Hotmail",
+    "MX Record":"eur.olc.protection.outlook.com",
+    "MX Domain":"outlook.com",
+    "MX IP":"52.101.68.11"
+  },
+  {
+    "Domain":"outlook.fr",
+    "Type":"Microsoft OLC\/Outlook.com\/Hotmail",
+    "MX Record":"eur.olc.protection.outlook.com",
+    "MX Domain":"outlook.com",
+    "MX IP":"52.101.68.19"
+  },
+  {
+    "Domain":"outlook.hn",
+    "Type":"Microsoft OLC\/Outlook.com\/Hotmail",
+    "MX Record":"nam.olc.protection.outlook.com",
+    "MX Domain":"outlook.com",
+    "MX IP":"52.101.11.6"
+  },
+  {
+    "Domain":"outlook.ht",
+    "Type":"Microsoft OLC\/Outlook.com\/Hotmail",
+    "MX Record":"nam.olc.protection.outlook.com",
+    "MX Domain":"outlook.com",
+    "MX IP":"52.101.11.11"
+  },
+  {
+    "Domain":"outlook.hu",
+    "Type":"Microsoft OLC\/Outlook.com\/Hotmail",
+    "MX Record":"eur.olc.protection.outlook.com",
+    "MX Domain":"outlook.com",
+    "MX IP":"52.101.68.14"
+  },
+  {
+    "Domain":"outlook.ie",
+    "Type":"Microsoft OLC\/Outlook.com\/Hotmail",
+    "MX Record":"eur.olc.protection.outlook.com",
+    "MX Domain":"outlook.com",
+    "MX IP":"52.101.68.11"
+  },
+  {
+    "Domain":"outlook.in",
+    "Type":"Microsoft OLC\/Outlook.com\/Hotmail",
+    "MX Record":"apc.olc.protection.outlook.com",
+    "MX Domain":"outlook.com",
+    "MX IP":"52.101.11.8"
+  },
+  {
+    "Domain":"outlook.it",
+    "Type":"Microsoft OLC\/Outlook.com\/Hotmail",
+    "MX Record":"eur.olc.protection.outlook.com",
+    "MX Domain":"outlook.com",
+    "MX IP":"52.101.68.14"
+  },
+  {
+    "Domain":"outlook.jp",
+    "Type":"Microsoft OLC\/Outlook.com\/Hotmail",
+    "MX Record":"apc.olc.protection.outlook.com",
+    "MX Domain":"outlook.com",
+    "MX IP":"52.101.11.18"
+  },
+  {
+    "Domain":"outlook.kr",
+    "Type":"Microsoft OLC\/Outlook.com\/Hotmail",
+    "MX Record":"apc.olc.protection.outlook.com",
+    "MX Domain":"outlook.com",
+    "MX IP":"52.101.10.17"
+  },
+  {
+    "Domain":"outlook.la",
+    "Type":"Microsoft OLC\/Outlook.com\/Hotmail",
+    "MX Record":"apc.olc.protection.outlook.com",
+    "MX Domain":"outlook.com",
+    "MX IP":"52.101.10.19"
+  },
+  {
+    "Domain":"outlook.lv",
+    "Type":"Microsoft OLC\/Outlook.com\/Hotmail",
+    "MX Record":"eur.olc.protection.outlook.com",
+    "MX Domain":"outlook.com",
+    "MX IP":"52.101.73.0"
+  },
+  {
+    "Domain":"outlook.mx",
+    "Type":"Microsoft OLC\/Outlook.com\/Hotmail",
+    "MX Record":"nam.olc.protection.outlook.com",
+    "MX Domain":"outlook.com",
+    "MX IP":"52.101.11.14"
+  },
+  {
+    "Domain":"outlook.my",
+    "Type":"Microsoft OLC\/Outlook.com\/Hotmail",
+    "MX Record":"apc.olc.protection.outlook.com",
+    "MX Domain":"outlook.com",
+    "MX IP":"52.101.11.16"
+  },
+  {
+    "Domain":"outlook.pa",
+    "Type":"Microsoft OLC\/Outlook.com\/Hotmail",
+    "MX Record":"nam.olc.protection.outlook.com",
+    "MX Domain":"outlook.com",
+    "MX IP":"52.101.40.28"
+  },
+  {
+    "Domain":"outlook.ph",
+    "Type":"Microsoft OLC\/Outlook.com\/Hotmail",
+    "MX Record":"apc.olc.protection.outlook.com",
+    "MX Domain":"outlook.com",
+    "MX IP":"52.101.194.16"
+  },
+  {
+    "Domain":"outlook.pk",
+    "Type":"Microsoft OLC\/Outlook.com\/Hotmail",
+    "MX Record":"apc.olc.protection.outlook.com",
+    "MX Domain":"outlook.com",
+    "MX IP":"52.101.10.0"
+  },
+  {
+    "Domain":"outlook.pt",
+    "Type":"Microsoft OLC\/Outlook.com\/Hotmail",
+    "MX Record":"eur.olc.protection.outlook.com",
+    "MX Domain":"outlook.com",
+    "MX IP":"52.101.68.24"
+  },
+  {
+    "Domain":"outlook.ro",
+    "Type":"Microsoft OLC\/Outlook.com\/Hotmail",
+    "MX Record":"eur.olc.protection.outlook.com",
+    "MX Domain":"outlook.com",
+    "MX IP":"52.101.68.1"
+  },
+  {
+    "Domain":"outlook.sa",
+    "Type":"Microsoft OLC\/Outlook.com\/Hotmail",
+    "MX Record":"apc.olc.protection.outlook.com",
+    "MX Domain":"outlook.com",
+    "MX IP":"52.101.194.10"
+  },
+  {
+    "Domain":"outlook.sg",
+    "Type":"Microsoft OLC\/Outlook.com\/Hotmail",
+    "MX Record":"apc.olc.protection.outlook.com",
+    "MX Domain":"outlook.com",
+    "MX IP":"52.101.10.4"
+  },
+  {
+    "Domain":"outlook.si",
+    "Type":"Microsoft OLC\/Outlook.com\/Hotmail",
+    "MX Record":"eur.olc.protection.outlook.com",
+    "MX Domain":"outlook.com",
+    "MX IP":"52.101.68.13"
+  },
+  {
+    "Domain":"outlook.sk",
+    "Type":"Microsoft OLC\/Outlook.com\/Hotmail",
+    "MX Record":"eur.olc.protection.outlook.com",
+    "MX Domain":"outlook.com",
+    "MX IP":"52.101.68.17"
+  },
+  {
+    "Domain":"outlook.uy",
+    "Type":"Microsoft OLC\/Outlook.com\/Hotmail",
+    "MX Record":"nam.olc.protection.outlook.com",
+    "MX Domain":"outlook.com",
+    "MX IP":"52.101.10.7"
+  },
+  {
+    "Domain":"passport.com",
+    "Type":"Microsoft OLC\/Outlook.com\/Hotmail",
+    "MX Record":"outlook-com.olc.protection.outlook.com",
+    "MX Domain":"outlook.com",
+    "MX IP":"52.101.10.15"
+  },
+  {
+    "Domain":"webtv.net",
+    "Type":"Microsoft OLC\/Outlook.com\/Hotmail",
+    "MX Record":"nam.olc.protection.outlook.com",
+    "MX Domain":"outlook.com",
+    "MX IP":"52.101.10.17"
+  },
+  {
+    "Domain":"windowslive.com",
+    "Type":"Microsoft OLC\/Outlook.com\/Hotmail",
+    "MX Record":"nam.olc.protection.outlook.com",
+    "MX Domain":"outlook.com",
+    "MX IP":"52.101.40.5"
+  },
+  {
+    "Domain":"windowslive.es",
+    "Type":"Microsoft OLC\/Outlook.com\/Hotmail",
+    "MX Record":"eur.olc.protection.outlook.com",
+    "MX Domain":"outlook.com",
+    "MX IP":"52.101.68.2"
+  }
+]
