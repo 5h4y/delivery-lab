@@ -1,0 +1,22 @@
+{
+    "30001": {
+        "description": "Queue overflow.",
+        "reason": "Message queue at carrier or Twilio full.",
+        "action": "Retry later or investigate high traffic periods."
+    },
+    "30006": {
+        "description": "Landline or unreachable carrier.",
+        "reason": "Trying to deliver SMS to a landline or invalid number.",
+        "action": "Validate phone type before sending."
+    },
+    "30007": {
+        "description": "Message filtered by carrier.",
+        "reason": "Carrier rejected message due to spam filtering or content issues.",
+        "action": "Review content, apply registered campaigns if necessary."
+    },
+    "20404": {
+        "description": "Resource not found.",
+        "reason": "Twilio couldn’t find the resource (e.g., MessageSid).",
+        "action": "Confirm the SID or ID is correct."
+    }
+}
