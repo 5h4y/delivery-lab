@@ -1,0 +1,22 @@
+{
+    "Google Workspace": ["aspmx\\.l\\.google\\.com", "alt[1-4]\\.aspmx\\.l\\.google\\.com", "aspmx[1-4]\\.googlemail\\.com"],
+    "Microsoft 365": [".*\\.mail\\.protection\\.outlook\\.com"],
+    "Yahoo": ["mta[0-9]+\\.am0\\.yahoodns\\.net"],
+    "Zoho Mail": ["mx\\.zoho\\.com", "mx[1-3]\\.zoho\\.com"],
+    "ProtonMail": ["mail\\.protonmail\\.ch", "mailsec\\.protonmail\\.ch"],
+    "Fastmail": ["in[1-3]\\.smtp\\.fastmail\\.com"],
+    "Yandex": ["mx\\.yandex\\.net"],
+    "Amazon WorkMail": ["smtp\\.awsapps\\.com"],
+    "Rackspace": ["emailsrvr\\.com"],
+    "GandiMail": ["spool\\.mail\\.gandi\\.net", "fb\\.mail\\.gandi\\.net"],
+    "Bluehost": ["box[0-9]+\\.bluehost\\.com"],
+    "GoDaddy": ["smtp\\.secureserver\\.net", "mailstore1\\.secureserver\\.net"],
+    "IONOS": ["mx[0-9]+\\.ionos\\.com", "mx[0-9]+\\.ionos\\.de"],
+    "Namecheap Private Email": ["mx[0-9]+\\.privateemail\\.com"],
+    "DreamHost": ["mx[0-9]+\\.mail\\.dreamhost\\.com"],
+    "SiteGround": ["mx[0-9]+\\.mail\\.spamprotect\\.com"],
+    "Mailgun": ["mxa\\.mailgun\\.org", "mxb\\.mailgun\\.org"],
+    "SendGrid": ["mx\\.sendgrid\\.net"],
+    "Mailjet": ["in-v[0-9]+\\.mailjet\\.com"],
+    "MXroute": ["mx[0-9]*\\.mxroute\\.com"]
+  }
