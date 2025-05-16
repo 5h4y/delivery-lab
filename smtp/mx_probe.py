@@ -1,3 +1,11 @@
+'''
+If the connection is successful, we can assume a few things:
+
+- The mail server is reachable over port 25
+- It's accepting random SMTP connections :)
+- The HELO response is valid
+'''
+
 import smtplib
 import dns.resolver
 
