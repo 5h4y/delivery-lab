@@ -1,0 +1,68 @@
+[
+  {
+    "type": "Email Transmission",
+    "title": "RFC 5321 — SMTP Protocol",
+    "url": "https://datatracker.ietf.org/doc/html/rfc5321",
+    "description": "Defines the core protocol for email transmission: SMTP."
+  },
+  {
+    "type": "Email Security",
+    "title": "RFC 7208 — Sender Policy Framework (SPF)",
+    "url": "https://datatracker.ietf.org/doc/html/rfc7208",
+    "description": "Describes how SPF is used to authenticate sending mail servers."
+  },
+  {
+    "type": "Email Security",
+    "title": "RFC 7489 — DMARC",
+    "url": "https://datatracker.ietf.org/doc/html/rfc7489",
+    "description": "Defines the Domain-based Message Authentication, Reporting, and Conformance (DMARC) standard."
+  },
+  {
+    "type": "Email Security",
+    "title": "RFC 6376 — DKIM",
+    "url": "https://datatracker.ietf.org/doc/html/rfc6376",
+    "description": "Specifies DKIM, a method for authenticating email messages using public-key cryptography."
+  },
+  {
+    "type": "Email Security",
+    "title": "RFC 8461 — MTA-STS",
+    "url": "https://datatracker.ietf.org/doc/html/rfc8461",
+    "description": "Outlines a standard for enforcing SMTP TLS delivery via MTA-STS policies."
+  },
+  {
+    "type": "Email Security",
+    "title": "RFC 8657 — TLS Reporting (TLS-RPT)",
+    "url": "https://datatracker.ietf.org/doc/html/rfc8460",
+    "description": "Defines reporting methods for SMTP TLS negotiation failures."
+  },
+  {
+    "type": "Feedback and List Management",
+    "title": "RFC 9477 — Complaint Feedback Loop Address Header",
+    "url": "https://datatracker.ietf.org/doc/html/rfc9477",
+    "description": "Standardizes a header field for specifying complaint feedback loop addresses."
+  },
+  {
+    "type": "Feedback and List Management",
+    "title": "RFC 8058 — Signaling One-Click Functionality for List Email Headers",
+    "url": "https://datatracker.ietf.org/doc/html/rfc8058",
+    "description": "Defines the 'One-Click Unsubscribe' functionality for mailing lists."
+  },
+  {
+    "type": "Mailbox Naming Standards",
+    "title": "RFC 2142 — Mailbox Names for Common Services, Roles and Functions",
+    "url": "https://www.rfc-editor.org/rfc/rfc2142.html",
+    "description": "Specifies reserved mailbox names like 'abuse@', 'postmaster@', and others for standard roles."
+  },
+  {
+    "type": "Email Security",
+    "title": "RFC 5782 — DNS Blacklists and Whitelists",
+    "url": "https://www.rfc-editor.org/rfc/rfc5782.html",
+    "description": "Describes DNS-based blacklists (DNSBLs) and whitelists for spam filtering."
+  },
+  {
+    "type": "Feedback and List Management",
+    "title": "RFC 2369 — The Use of URLs as Meta-Syntax for Core Mail List Commands and their Transport through Message Header Fields",
+    "url": "https://datatracker.ietf.org/doc/rfc2369/",
+    "description": "Standardizes URL-based commands in list-related email headers (like 'List-Unsubscribe')."
+  }
+]

@@ -1,0 +1,32 @@
+{
+    "DNSBLs": [
+        {
+            "name": "multi.surbl.org",
+            "type": "SURBL",
+            "purpose": "Spam URL detection",
+            "provider": "SURBL",
+            "notes": "Focuses on URLs in email body content."
+        },
+        {
+            "name": "b.barracudacentral.org",
+            "type": "IP Reputation",
+            "purpose": "Spam source detection",
+            "provider": "Barracuda Networks",
+            "notes": "Requires registration for DNS queries."
+        },
+        {
+            "name": "dnsbl.sorbs.net",
+            "type": "General DNSBL",
+            "purpose": "Open relay and spam source detection",
+            "provider": "SORBS",
+            "notes": "Includes multiple sublists for specialized blocking."
+        },
+        {
+            "name": "zen.spamhaus.org",
+            "type": "Comprehensive DNSBL",
+            "purpose": "Combines SBL, XBL, and PBL blocklists",
+            "provider": "Spamhaus",
+            "notes": "Best for comprehensive IP reputation checks."
+        }
+    ]
+}
