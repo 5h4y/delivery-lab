@@ -20,7 +20,7 @@ def validate_mailbox(email_address, from_address="validator@test.com"):
 
         answers = dns.resolver.resolve(domain, "MX")
         mx_record = sorted(answers, key=lambda r: r.preference)[0].exchange.to_text()
-        print(f"🔍 MX Record Found: {mx_record}")
+        print(f"MX Record Found: {mx_record}")
 
         server = smtplib.SMTP(mx_record, 25, timeout=10)
         server.ehlo_or_helo_if_needed()
@@ -29,23 +29,23 @@ def validate_mailbox(email_address, from_address="validator@test.com"):
         code, message = server.rcpt(email_address)
 
         if code == 250:
-            print(f"✅ Mailbox exists: {email_address}")
+            print(f"Mailbox probably exists: {email_address}")
         elif code == 550:
-            print(f"❌ Mailbox does NOT exist: {email_address}")
+            print(f"Mailbox probably does NOT exist: {email_address}")
         else:
-            print(f"⚠️ Uncertain response ({code}): {message.decode()}")
+            print(f"Who knows, dude. Response: ({code}): {message.decode()}")
 
         server.quit()
 
     except dns.resolver.NXDOMAIN:
-        print(f"❌ Domain does not exist: {domain}")
+        print(f"Domain does not exist: {domain}")
     except dns.resolver.NoAnswer:
-        print(f"❌ No MX record found for domain: {domain}")
+        print(f"No MX record found for domain: {domain}")
     except (smtplib.SMTPServerDisconnected, smtplib.SMTPConnectError) as e:
-        print(f"❌ SMTP Connection Error: {e}")
+        print(f"SMTP Connection Error: {e}")
     except Exception as e:
-        print(f"❌ Error: {e}")
+        print(f"Error: {e}")
 
 if __name__ == "__main__":
-    email = input("Enter an email address to validate: ").strip()
+    email = input("Enter email address: ").strip()
     validate_mailbox(email)
