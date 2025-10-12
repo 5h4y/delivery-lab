@@ -20,19 +20,19 @@ def check_seo_tags(domain):
         response.raise_for_status()
         soup = BeautifulSoup(response.text, "html.parser")
 
-        print(f"\n🔍 SEO tag check for {domain}:\n")
+        print(f"\nSEO tag check for {domain}:\n")
 
         for tag, extractor in SEO_TAGS.items():
             try:
                 value = extractor(soup)
                 if value:
-                    print(f"✅ {tag}: {value[:100]}{'...' if len(value) > 100 else ''}")
+                    print(f"{tag}: {value}") 
                 else:
                     print(f"⚠️  {tag} not found")
             except Exception as e:
-                print(f"❌ Error checking {tag}: {e}")
+                print(f"Error checking {tag}: {e}")
 
     except requests.RequestException as e:
-        print(f"\n❌ Could not retrieve {domain}\n{e}")
+        print(f"\nCould not retrieve {domain}\n{e}")
 
 check_seo_tags(input("Enter domain: "))

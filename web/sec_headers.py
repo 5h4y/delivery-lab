@@ -35,16 +35,16 @@ def check_security_headers(domain):
         #print(response.status_code)
         #print(response.headers) 
 
-        print(f"\n🔎 Security headers for {domain}:\n")
+        print(f"\n Security headers for {domain}:\n")
 
         for h in SECURITY_HEADERS:
             val = headers.get(h)
             if val:
-                print(f"✅ {h}: {val}")
+                print(f" {h}: {val}")
             else:
                 print(f"⚠️  {h} not present")
     except requests.exceptions.RequestException as e:
-        print(f"\n❌ Could not reach {domain}\n{e}")
+        print(f"\n Could not reach {domain}\n{e}")
 
 check_security_headers(input("Enter domain: "))
 
