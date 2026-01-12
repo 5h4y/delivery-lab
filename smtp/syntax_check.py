@@ -60,6 +60,6 @@ if __name__ == "__main__":
 
     valid, message = validate_email_syntax(email, use_library=USE_LIBRARY, check_dns=CHECK_DNS)
     if valid:
-        print(f"✅ {message}")
+        print(f"OK {message}")
     else:
-        print(f"❌ {message}")
+        print(f"ERROR {message}")
