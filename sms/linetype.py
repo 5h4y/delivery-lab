@@ -2,7 +2,9 @@ import os, re, json
 from twilio.rest import Client
 
 ''' 
-It's cost-prohibitive for many businesses to programmatically implement Twilio's phone number Lookup API. That said, for one-offs or small batches when you need to troubleshoot/explain an SMS delivery problem for a client, I find it can be really helpful. 
+This script uses Twilio's Line Type Intelligence API to identify carrier, line type, known issues, country, etc.
+
+It's cost-prohibitive for many businesses to programmatically implement this. But for one-offs or small batches when you need to troubleshoot/explain an SMS delivery problem for a client, I find it helpful. 
 
 '''
 
